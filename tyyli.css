@@ -1,0 +1,18 @@
+h1 {color:rgb(90, 77, 183)}
+h1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+body {background-color: rgb(255, 202, 235);}
+
+@media only screen and (max-width:420px)
+{
+body {background-color: aqua;}
+}
+
+@media only screen and (min-width:421px)
+{
+body {background-color: rgb(219, 180, 255);}
+}
+
+@media only screen and (min-width:1024px)
+{
+body {background-color: rgb(253, 194, 246);}
+}
